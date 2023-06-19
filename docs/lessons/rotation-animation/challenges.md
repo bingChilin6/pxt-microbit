@@ -141,5 +141,5 @@ input.onButtonPressed(Button.A, () => {
 
 ## Challenge 3
 
-Let's also make the image rotate the opposite way when button A is pressed! We can do this with another while loop that is only executed while `not rotating`.
+Let's also make the image rotate the opposite way when button A is pressed! We can do this with another while loop that is only executed while `not rotating`. The last info is useless
 
